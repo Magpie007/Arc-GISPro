@@ -1,6 +1,8 @@
 # ArcGIS
 
-[1] Introduction to Geogrpahic Information Systems, Author: Kang-tsung Chang, ISBN:978-1-259-92964-9
+[1] Introduction to Geogrpahic Information Systems, 
+Author: Kang-tsung Chang, 
+ISBN:978-1-259-92964-9
 
 # ArcGIS Pro
 
