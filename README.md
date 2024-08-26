@@ -1,8 +1,6 @@
 # ArcGIS
 
-[1] Introduction to Geogrpahic Information Systems, 
-Author: Kang-tsung Chang, 
-ISBN:978-1-259-92964-9
+### $\square$ [Introduction to Geogrpahic Information Systems](https://www.amazon.com/Introduction-Geographic-Information-Systems-Kang-tsung/dp/1259929647)
 
 # ArcGIS Pro
 
