@@ -1,4 +1,4 @@
-# ArcGIS
+# ArcMap
 
 ### $\square$ [Introduction to Geogrpahic Information Systems](https://www.amazon.com/Introduction-Geographic-Information-Systems-Kang-tsung/dp/1259929647)
 
