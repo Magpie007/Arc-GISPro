@@ -6,17 +6,11 @@ ISBN:978-1-259-92964-9
 
 # ArcGIS Pro
 
-[1] Mastering ArcGIS Pro, 
-Author: Maribeth H. Price, 
-ISBN: 978-1-260-58733-3
+### $\square$ [Mastering ArcGIS Pro](https://www.mheducation.com/highered/product/mastering-arcgis-pro-price/M9781264091201.html)
 
-[2] Python Scripting for ArcGIS Pro, 
-Author: Paul A. Zandbergen, 
-e-ISBN: 9781589485006
+### $\square$ [Python Scripting for ArcGIS Pro]( https://www.esri.com/en-us/esri-press/browse/python-scripting-for-arcgis-pro)
 
-[3] Advanced Python Scripting for ArcGIS Pro, 
-Author: Paul A. Zandbergen, 
-e-ISBN: 9781589486195 
+### $\square$ [Advanced Python Scripting for ArcGIS Pro](https://www.esri.com/en-us/esri-press/browse/advanced-python-scripting-for-arcgis-pro)
 
 # ArcPy
 
