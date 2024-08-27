@@ -12,8 +12,8 @@
 
 # ArcPy
 
-### $\square$ [ArcGIS Pro Python Reference](https://pro.arcgis.com/en/pro-app/latest/arcpy/main/arcgis-pro-arcpy-reference.htm) by ESRI
+### $\square$ [ArcGIS Pro Python Reference](https://pro.arcgis.com/en/pro-app/latest/arcpy/main/arcgis-pro-arcpy-reference.htm) 
 
-### $\square$ [Python and ArcPy in ArcMap](https://desktop.arcgis.com/en/arcmap/latest/analyze/main/what-is-geoprocessing.htm) by ESRI
+### $\square$ [Python and ArcPy in ArcMap](https://desktop.arcgis.com/en/arcmap/latest/analyze/main/what-is-geoprocessing.htm) 
 
-### $\square$ [Mastering ArcPy](https://mapscaping.com/mastering-arcpy-a-guide-to-listing-features-and-objects-in-geodatabases/) by MAPSCAPING
+### $\square$ [Mastering ArcPy](https://mapscaping.com/mastering-arcpy-a-guide-to-listing-features-and-objects-in-geodatabases/)
